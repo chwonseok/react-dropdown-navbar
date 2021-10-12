@@ -28,3 +28,5 @@ function App() {
 }
 
 export default App;
+
+// 강의: https://www.youtube.com/watch?v=T2MhVxJxsL0
